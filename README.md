@@ -4,7 +4,7 @@
 
 
 
-1. use Python **AND** jupyter notebook t oread the prices.csv file.
+1. use Python **AND** jupyter notebook to read the prices.csv file.
 
 2. convert csv to dataframe
 
